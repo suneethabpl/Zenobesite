@@ -1,6 +1,6 @@
 # Playwright
-create Page Object Model framework in Playwright
-This is done on a Node project with JavaScript
+create Page Object Model framework in Playwright.
+This is done on a Node project with JavaScript.
 
 ### Tools & Technologies
 * Node JS
